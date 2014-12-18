@@ -1475,6 +1475,11 @@ bool lcd_clicked()
 }
 #endif//ULTIPANEL
 
+void lcd_show_status()
+{
+    lcd_status_screen();
+}
+
 /********************************/
 /** Float conversion utilities **/
 /********************************/
