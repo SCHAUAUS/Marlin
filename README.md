@@ -1,7 +1,6 @@
 ==========================
 Marlin 3D Printer Firmware
 ==========================
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/3813/badge.svg)](https://scan.coverity.com/projects/3813)
 [![Travis Build Status](https://travis-ci.org/SCHAUAUS/Marlin.svg)](https://travis-ci.org/ErikZalm/Marlin)
 
 Marlin has a GPL license because I believe in open development.
